@@ -1,5 +1,7 @@
 Fine-Tuning Phi-2: README
 
+Model in Hugging Face: https://huggingface.co/erkkatt/phi-2-dialogsum-finetuned
+
 Overview
 
 This project focuses on fine-tuning the Phi-2 model using a structured Jupyter Notebook. The process includes dataset preparation, model training, evaluation, and error resolution.
